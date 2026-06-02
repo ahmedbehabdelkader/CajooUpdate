@@ -1,0 +1,7 @@
+project_id = "hfkudivemqvttwpxyknc"
+
+[functions.send-order-email]
+verify_jwt = false
+
+[functions.send-auth-email]
+verify_jwt = false
